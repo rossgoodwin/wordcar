@@ -1,12 +1,12 @@
 # WORD CAR
 
 ![Word Car Cadillac XTS](http://i.imgur.com/dgG3hXP.jpg "Word Car | Photo by Christiana Caro")
-<Photo by Christiana Caro>
+Photo by Christiana Caro
 
 This repository contains the raw code from [Ross Goodwin](http://rossgoodwin.com)'s Word Car experiment of March 2017, in which he (accompanied by: Lily Beale-Wirsing, Beth Goodwin, Christiana Caro, Kenric McDowell, Nora Hamada, Lewis Rapkin, & David Smoler) drove a 2017 Cadillac XTS from Brooklyn, NY, to New Orleans, LA.
 
 ![Axis M3007 pan-tilt-zoom surveillance camera](http://i.imgur.com/2hmUG9C.jpg "Axis M3007 | Photo by Christiana Caro")
-<Photo by Christiana Caro>
+Photo by Christiana Caro
 
 Goodwin outfitted the car with an Axis M3007 pan-tilt-zoom surveillance camera on the trunk that could look in four directions at once; a GPS unit connected to an onboard database of [Foursquare](https://foursquare.com) locations; and his Razer Blade laptop, which used its microphone to record conversation inside the car and its clock to record the time at every moment. These elements, combined with [long short-term memory recurrent neural networks](https://en.wikipedia.org/wiki/Long_short-term_memory) that Goodwin trained to write poetry and prose, created an automatic narration of the entire journey. (Neural network implemention included [Torch-RNN](https://github.com/jcjohnson/torch-rnn) and [Densecap](https://github.com/jcjohnson/densecap) by [Justin Johnson](https://github.com/jcjohnson/), which must be present to run any code in this repository.)
 
