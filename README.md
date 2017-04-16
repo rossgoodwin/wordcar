@@ -10,7 +10,7 @@ This repository contains the raw code from [Ross Goodwin](http://rossgoodwin.com
 
 Goodwin outfitted the car with an Axis M3007 pan-tilt-zoom surveillance camera on the trunk that could look in four directions at once; a GPS unit connected to an onboard database of [Foursquare](https://foursquare.com) locations; and his Razer Blade laptop, which used its microphone to record conversation inside the car and its clock to record the time at every moment. These elements, combined with [long short-term memory recurrent neural networks](https://en.wikipedia.org/wiki/Long_short-term_memory) that Goodwin trained to write poetry and prose, created an automatic narration of the entire journey. (Neural network implemention included [Torch-RNN](https://github.com/jcjohnson/torch-rnn) and [Densecap](https://github.com/jcjohnson/densecap) by [Justin Johnson](https://github.com/jcjohnson/), which must be present to run any code in this repository.)
 
-The complete narrative was printed onto thermal paper using a Datamax O'Neil MF4T wide format thermal printer, resulting in 11 scrolls:
+The complete narrative was printed onto thermal paper in real time using a Datamax O'Neil MF4T wide format thermal printer, resulting in 11 scrolls:
 
 ![11 scrolls of Word Car](https://i.imgur.com/LpNF8Ul.jpg "11 scrolls of Word Car")
 
