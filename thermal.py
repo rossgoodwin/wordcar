@@ -1,3 +1,7 @@
+#    Word Car automotive narration system
+#    Copyright (C) 2017, Ross Goodwin#
+#    Full license at: https://github.com/rossgoodwin/wordcar
+
 import subprocess
 import serial
 import string
